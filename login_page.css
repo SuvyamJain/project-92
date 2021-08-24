@@ -1,0 +1,35 @@
+body {
+
+   background: blue;
+}
+
+#player_1_div {
+
+    background: aqua;
+    padding: 10px;
+		float: none;
+		border-radius: 15px;
+        width: 30%;
+}
+
+
+
+#player_2_div {
+
+    background: aqua;
+    padding: 10px;
+		float: none;
+		border-radius: 15px;
+        width: 30%;
+}
+
+
+
+
+
+
+
+
+
+
+
